@@ -8,7 +8,7 @@ package com.shop.controller;
 public class IndexController {
 
     public static void main(String[] args) {
-        System.out.println("welcome to online-shop!!!--v2.0");
+        System.out.println("welcome to online-shop!!!--v3.0");
     }
 
 }
